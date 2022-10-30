@@ -1,4 +1,6 @@
-Reverse engineering / C# project to automatically reply to Tidio messages with custom replies.
+All in one CS file reverse engineering / C# project to automatically reply to Tidio messages with custom replies.
+
+Written without much code structure / design principles in mind as it was a small reverse engineering experiment.
 
 Settings.txt & TidioReplies:
 
