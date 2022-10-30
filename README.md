@@ -1,3 +1,5 @@
+Reverse engineering / C# project to automatically reply to Tidio messages with custom replies.
+
 Settings.txt & TidioReplies:
 
 * You can get the keys/ids by starting a websocket on tidio.
